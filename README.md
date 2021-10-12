@@ -1,9 +1,8 @@
+This fork was created to support some internal legacy code and resolve the import [github.com/slayercat/gosnmp](github.com/slayercat/gosnmp) to [github.com/gosnmp/gosnmp](github.com/gosnmp/gosnmp).
+
+---
 GoSNMPServer
 ======
-[![Build Status](https://travis-ci.org/slayercat/GoSNMPServer.svg?branch=master)](https://travis-ci.org/slayercat/GoSNMPServer)
-[![GoDoc](https://godoc.org/github.com/slayercat/GoSNMPServer?status.png)](https://godoc.org/github.com/slayercat/GoSNMPServer)
-[![codecov](https://codecov.io/gh/slayercat/GoSNMPServer/branch/master/graph/badge.svg)](https://codecov.io/gh/slayercat/GoSNMPServer)
-
 GoSNMPServer is an SNMP server library fully written in Go. It provides Server Get,
 GetNext, GetBulk, Walk, BulkWalk, Set and Traps. It supports IPv4 and
 IPv6, using __SNMPv2c__ or __SNMPv3__. Builds are tested against
