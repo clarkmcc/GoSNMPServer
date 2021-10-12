@@ -4,8 +4,8 @@ import "os"
 import "strings"
 import "github.com/sirupsen/logrus"
 import "github.com/gosnmp/gosnmp"
-import "github.com/slayercat/GoSNMPServer"
-import "github.com/slayercat/GoSNMPServer/mibImps"
+import "github.com/clarkmcc/GoSNMPServer"
+import "github.com/clarkmcc/GoSNMPServer/mibImps"
 
 import "github.com/urfave/cli/v2"
 

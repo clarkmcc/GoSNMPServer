@@ -6,7 +6,7 @@ import "runtime"
 import "strings"
 import "encoding/hex"
 import "github.com/gosnmp/gosnmp"
-import "github.com/slayercat/GoSNMPServer"
+import "github.com/clarkmcc/GoSNMPServer"
 import "github.com/shirou/gopsutil/net"
 import "github.com/pkg/errors"
 

@@ -1,7 +1,7 @@
 package ucdMib
 
 import "github.com/gosnmp/gosnmp"
-import "github.com/slayercat/GoSNMPServer"
+import "github.com/clarkmcc/GoSNMPServer"
 import "github.com/shirou/gopsutil/cpu"
 import "github.com/shirou/gopsutil/disk"
 import "github.com/prometheus/procfs"

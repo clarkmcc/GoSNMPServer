@@ -2,7 +2,7 @@ package ucdMib
 
 import "fmt"
 import "github.com/gosnmp/gosnmp"
-import "github.com/slayercat/GoSNMPServer"
+import "github.com/clarkmcc/GoSNMPServer"
 import "github.com/shirou/gopsutil/load"
 
 // SystemLoadOIDs Returns a list of system Load.
